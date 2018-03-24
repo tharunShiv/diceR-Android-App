@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">DiceR</string>
     <string name="rollDice">Roll Dice</string>
+    <string name="left_dice">Left dice</string>
+    <string name="right_dice">Right Dice</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="dicer_logo">Dicer logo</string>
 </resources>
